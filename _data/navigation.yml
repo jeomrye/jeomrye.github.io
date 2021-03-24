@@ -4,9 +4,9 @@ main:
 #     url: "/about/" # 클릭시 이동할 URL
   - title: "Ai-net"
     url: /year-archive/
-  - title: "Tag"
+  - title: "Ai-net"
     url: /tags/
-  - title: "Category"
+  - title: "Ai-net"
     url: /categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
