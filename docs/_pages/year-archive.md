@@ -1,6 +1,6 @@
 ---
 title: "Posts by Year"
-permalink: www.naver.com
+permalink: /year-archive/
 layout: posts
 author_profile: true
 ---
