@@ -4,7 +4,7 @@ main:
 #     url: "/about/" # 클릭시 이동할 URL
   - title: "네이버"
     url: /year-archive/
-  - title: "Ai-net"
+  - title: "naver"
     url: /tags/
   - title: "Ai-net"
     url: /categories/
