@@ -4,7 +4,7 @@ title:  "함수!!"
 ---
 
 
-# 
+# 제목
 # <template>
  <div>
    <template v-for="(animal, index) in animals" :key="index">
