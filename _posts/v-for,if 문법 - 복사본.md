@@ -1,4 +1,10 @@
-<template>
+---
+layout: single
+title:  "함수!!"
+---
+
+
+# <template>
  <div>
    <template v-for="(animal, index) in animals" :key="index">
   <h2 v-if="animal !== 'monkey'">{{animal}} 인덱스는 :: {{index}}</h2>
