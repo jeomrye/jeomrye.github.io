@@ -1,0 +1,53 @@
+<template>
+ <div>
+   <template v-for="(animal, index) in animals" :key="index">
+  <h2 v-if="animal !== 'monkey'">{{animal}} 인덱스는 :: {{index}}</h2>
+    </template>
+ </div>
+</template>
+
+<script>
+
+export default {
+  name: 'App',
+  data() {
+    return {
+     age:10,
+     display:false,
+     animals: ["monkey","rat","dog","lion"],
+     users: [
+       {name: 'scalper', job: 'developer', gender:'male',skill:["html","css","javascript"]},
+       {name: 'john', job: 'designer', gender:'male',skill:["html","css","javascript"]},
+       {name: '철수', job: 'pm', gender:'female',skill:["html","css","javascript"]}
+     ]
+    };
+  },
+  
+};
+</script>
+
+<style>
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+input {
+  font-size: 20px;
+}
+.orange{
+color: orange;
+}
+.salmon{
+color: salmon;
+}
+.red{
+  color: red;
+}
+.not-good{
+  text-decoration: line-through;
+}
+</style>
