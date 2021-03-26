@@ -5,6 +5,6 @@
   - title: "Naver"
     url: "https://naver.com"
   - title: "address"
-    url: "./_posts"
+    url: "./_posts/"
   - title: "naver"
     url: /tags/
