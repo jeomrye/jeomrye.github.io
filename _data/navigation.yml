@@ -5,7 +5,7 @@ main:
   - title: "JAVA"
     sublinks:
       - title: "JVM"
-        url: /java/jvm/
+        url: _posts/
       - title: "Class"
         url: /java/class/
       - title: "Annotation"
