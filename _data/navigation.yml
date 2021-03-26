@@ -2,6 +2,14 @@
 main:
 - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    - title: "JAVA"
+    sublinks:
+      - title: "JVM"
+        url: _posts\2021-03-24-second.md
+      - title: "Class"
+        url: /java/class/
+      - title: "Annotation"
+        url: /java/annotation/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
