@@ -4,6 +4,6 @@
 #     url: "/about/" # 클릭시 이동할 URL
   - title: "naver"
   - title: "naver123"
-    url: /xxx/_posts/
+    url: "https://github.com/7271kim"
   - title: "naver"
     url: /tags/
