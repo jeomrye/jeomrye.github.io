@@ -4,6 +4,6 @@
 #     url: "/about/" # 클릭시 이동할 URL
   - title: ""
   - title: "naver"
-    url: /year-archive/
+    url: /_posts/
   - title: "naver"
     url: /tags/
