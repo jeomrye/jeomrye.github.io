@@ -1,9 +1,8 @@
 # main links
 main:
-- title: "Quick-Start Guide"
-  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  
-    - title: "JAVA"
+#   - title: "About" # 네비게이션 바에 표시 되는 이름
+#     url: "/about/" # 클릭시 이동할 URL
+  - title: "JAVA"
     sublinks:
       - title: "JVM"
         url: /java/jvm/
@@ -25,6 +24,9 @@ main:
         url: /spring/concept/
       - title: "Annotations"
         url: /spring/annotations/        
+    
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
