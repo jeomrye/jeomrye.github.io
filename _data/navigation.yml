@@ -4,7 +4,7 @@
 #     url: "/about/" # 클릭시 이동할 URL
   - title: "Naver"
     url: "https://naver.com"
-  - title: "naver123"
+  - title: "naver"
     url: "www.naver.com"
   - title: "naver"
     url: /tags/
