@@ -1,10 +1,39 @@
-# main links  
-  main:
+# main links
+main:
 #   - title: "About" # 네비게이션 바에 표시 되는 이름
 #     url: "/about/" # 클릭시 이동할 URL
-  - title: "Naver"
-    url: "https://naver.com"
-  - title: "address1"
-    url: "./_posts/"
-  - title: "naver"
-    url: /tags/
+  - title: "JAVA"
+    sublinks:
+      - title: "java"
+        url: /java/java/
+      - title: "Class"
+        url: /java/class/
+      - title: "Annotation"
+        url: /java/annotation/
+
+
+  - title: "JavaScript"
+    sublinks:
+      - title: "Jquery"
+        url: /javascript/jquery/
+      - title: "test"
+        url: /javascript/test/
+
+
+  - title: "Spring"
+    sublinks:
+      - title: "AOP/MVC/PSA"
+        url: /spring/concept/
+      - title: "Annotations"
+        url: /spring/annotations/
+
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
